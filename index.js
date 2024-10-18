@@ -5,6 +5,8 @@
 
 const string1 = "My favorite dessert is jello";
 
+console.log(string1.indexOf("j"))
+
 // Your code here...
 
 
